@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* CSS Document */
+
+		*{ margin:0 ; padding: 0;}
+		.body{width:100vw; height: 100vh; background:#68cdd5;  }
+		.back{ padding-left:20px; padding-top: 25px;}
+		.logo{ width: 100%; margin: auto; margin-top:10vh; text-align: center;}
+		
+		.nav{  width:90%; margin: auto;  margin-top: 20vh; }
+		.text{ text-align:left; color: #FFFFFF;font-size: 1.6em;}
+		.left{position:absolute;left:15%; margin-top: 20vh; text-align: center; }
+		.right{position:absolute;right:15%; margin-top: 20vh;text-align: center; }
+		
+		.title{color: #FFFFFF; font-size: 1.6em;}
+	
